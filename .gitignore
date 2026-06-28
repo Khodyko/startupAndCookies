@@ -1,0 +1,28 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Java
+out/
+target/
+build/
+*.class
+*.jar
+*.war
+*.ear
+hs_err_pid*
+replay_pid*
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor / temp
+.vscode/
+*.swp
+*~
+*.bak
+
+# Logs
+*.log
